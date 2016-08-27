@@ -1,0 +1,2 @@
+# FFWIskra
+For the exam.
